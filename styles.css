@@ -16,14 +16,14 @@
     
 }
 
-.post-header{
-    display: flex;
-    width: 400px;
-    height: 60px;
-   padding: 10px;
-   align-items: center;
+.post-header{      /* mejorar el espacio*/
+  display: flex; 
+  width: 400px;
+  height: 60px;
+  padding: 10px;
+  align-items: center;
   
-   .im3{
+  .im3{
     flex: 1;
     text-align: right;
     padding-right: 5px;
@@ -34,13 +34,13 @@
 
 .logo{
 
-    margin-right: 10px;
+  margin-right: 10px; /* mejorar el espacio*/
 
 
 }
 
 .logo i{
-    font-size: 30px;
+  font-size: 30px; /* mejorar el espacio*/
 }
 
 
